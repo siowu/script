@@ -36,7 +36,7 @@ var setting = {
         , line: '公网1'
         , http: '标清'       
         , vol: '0'
-        , rate: '1'
+        , rate: '0'
         , none: 0
         , scale: 0
         , course: 0
